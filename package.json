@@ -1,0 +1,21 @@
+{
+  "name": "node-phantomjs",
+  "version": "1.0.0",
+  "description": "Crawl data with phantomjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-phantomjs"
+  ],
+  "author": "leducphuc1234@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.0.0",
+    "knex": "^0.21.2",
+    "node-horseman": "^3.3.0",
+    "phantom": "^6.3.0",
+    "valid-url": "^1.0.9"
+  }
+}
